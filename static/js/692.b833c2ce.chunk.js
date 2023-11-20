@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkquiz_master=self.webpackChunkquiz_master||[]).push([[692],{7692:function(t,u,a){a.d(u,{poH:function(){return h}});var e=a(9983);function h(t){return(0,e.w_)({tag:"svg",attr:{viewBox:"0 0 24 24"},child:[{tag:"path",attr:{d:"M19 11h-6V5h-2v6H5v2h6v6h2v-6h6z"}}]})(t)}}}]);
+//# sourceMappingURL=692.b833c2ce.chunk.js.map
