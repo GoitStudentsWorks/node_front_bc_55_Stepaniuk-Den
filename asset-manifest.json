@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/node_front_bc_55_Stepaniuk-Den/static/css/main.18c15264.css",
-    "main.js": "/node_front_bc_55_Stepaniuk-Den/static/js/main.44963ff1.js",
+    "main.js": "/node_front_bc_55_Stepaniuk-Den/static/js/main.916e2d3b.js",
     "static/css/470.a786416b.chunk.css": "/node_front_bc_55_Stepaniuk-Den/static/css/470.a786416b.chunk.css",
     "static/js/470.c1deda9d.chunk.js": "/node_front_bc_55_Stepaniuk-Den/static/js/470.c1deda9d.chunk.js",
     "static/js/210.b8d93707.chunk.js": "/node_front_bc_55_Stepaniuk-Den/static/js/210.b8d93707.chunk.js",
@@ -54,7 +54,7 @@
     "static/media/splash-mobile@1x.webp": "/node_front_bc_55_Stepaniuk-Den/static/media/splash-mobile@1x.6f6c96866ce1bcb49088.webp",
     "index.html": "/node_front_bc_55_Stepaniuk-Den/index.html",
     "main.18c15264.css.map": "/node_front_bc_55_Stepaniuk-Den/static/css/main.18c15264.css.map",
-    "main.44963ff1.js.map": "/node_front_bc_55_Stepaniuk-Den/static/js/main.44963ff1.js.map",
+    "main.916e2d3b.js.map": "/node_front_bc_55_Stepaniuk-Den/static/js/main.916e2d3b.js.map",
     "470.a786416b.chunk.css.map": "/node_front_bc_55_Stepaniuk-Den/static/css/470.a786416b.chunk.css.map",
     "470.c1deda9d.chunk.js.map": "/node_front_bc_55_Stepaniuk-Den/static/js/470.c1deda9d.chunk.js.map",
     "210.b8d93707.chunk.js.map": "/node_front_bc_55_Stepaniuk-Den/static/js/210.b8d93707.chunk.js.map",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.18c15264.css",
-    "static/js/main.44963ff1.js"
+    "static/js/main.916e2d3b.js"
   ]
 }
